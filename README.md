@@ -1,1 +1,14 @@
 # AI-Image-Detector
+
+Inentions:
+
+The intention of this presentation is to outline the scope of the capstone proposal through clear motivations, solutions, evaluations and methods.
+
+
+### Introduction
+In a world of ever-evolving artificial intelligence, it is imperative that we have tools that allow us to differentiate between images taken in the real world and images crafted from artificial intelligence. From hyper-realistic synthetic media and deepfakes, there is growing concern over the authenticity and ethicality of various digital content.
+
+
+### Motivation
+To address the potential risks associated with AI-generated content, this project aims to develop a sophisticated model capable of accurately identifying whether an image is authentically captured or artificially curated. By enhancing detection capabilities, this initiative seeks to promote digital integrity and safeguard against misinformation.
+
