@@ -2,7 +2,7 @@
 
 Inentions:
 
-The intention of this presentation is to outline the scope of the capstone proposal through clear motivations, solutions, evaluations and methods.
+The intention of this presentation is to compare various CNN methods in order to detect AI in images.
 
 
 ### Introduction
