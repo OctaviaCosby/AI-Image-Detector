@@ -10,3 +10,4 @@ The evolution of artificial intelligence (AI) is increasingly growing- from deep
 
 ### References
 [1]	IBM, “Convolutional Neural Networks,” Ibm.com, Oct. 06, 2021. https://www.ibm.com/think/topics/convolutional-neural-networks
+[2]	J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei, “ImageNet: A large-scale hierarchical image database,” 2009 IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2009, doi: https://doi.org/10.1109/cvpr.2009.5206848.
