@@ -1,6 +1,6 @@
 # AI-Image-Detector Comparison
 
-Inentions:
+### Inentions:
 
 The intention of this presentation is to compare various CNN methods in order to detect AI in images.
 
