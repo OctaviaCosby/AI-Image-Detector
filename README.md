@@ -11,6 +11,10 @@ The evolution of artificial intelligence (AI) is increasingly growing- from deep
 The files for this project can be downloaded on Kaggle using this link:
 https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images
 
+### Presentation
+The presentation for the results of the poject can be viewed here:
+https://www.canva.com/design/DAGjzpKxCXI/kOA3R8VGIn1yzOgti5-68A/edit?utm_content=DAGjzpKxCXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ### References
 [1]	IBM, “Convolutional Neural Networks,” Ibm.com, Oct. 06, 2021. https://www.ibm.com/think/topics/convolutional-neural-networks
 [2]	J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei, “ImageNet: A large-scale hierarchical image database,” 2009 IEEE Conference on Computer Vision and Pattern Recognition, Jun. 2009, doi: https://doi.org/10.1109/cvpr.2009.5206848.
